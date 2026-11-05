@@ -1,7 +1,8 @@
 import './index.css'
 import Passport from './assets/Passport.jpeg'
 import { useEffect, useRef } from 'react'
-import Typed from 'typed.js'
+import Typed from "typed.js";
+
 const HomePage = () => {
 
     const el = useRef(null)
