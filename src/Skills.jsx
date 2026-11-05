@@ -1,4 +1,4 @@
-import './index.css'
+{/*import './index.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {SiJavascript,SiPython, SiPostgresql,SiBootstrap, SiMysql, SiHtml5, SiDjango   } from "react-icons/si";
 import { SiReact } from "react-icons/si";
@@ -7,7 +7,30 @@ import PgAdmin4 from './assets/PgAdmin4.jpg'
 import VSCode from './assets/VSCode.png'
 import PyCharm from './assets/PyCharm.jpg'
 import Postman from './assets/postman.png'
-import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'*/}
+
+import './index.css';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
+
+import {
+  SiJavascript,
+  SiPython,
+  SiPostgresql,
+  SiBootstrap,
+  SiMysql,
+  SiHtml5,
+  SiDjango,
+  SiReact
+} from 'react-icons/si';
+
+import { FaCss3Alt } from 'react-icons/fa';
+
+import PgAdmin4 from './assets/PgAdmin4.jpg';
+import VSCode from './assets/VSCode.png';
+import PyCharm from './assets/PyCharm.jpg';
+import Postman from './assets/postman.png';
 
 const Skills = () => {
     return (
