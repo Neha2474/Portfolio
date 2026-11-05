@@ -6,7 +6,7 @@ import { FaCss3Alt  } from "react-icons/fa";
 import PgAdmin4 from './assets/PgAdmin4.jpg'
 import VSCode from './assets/VSCode.png'
 import PyCharm from './assets/PyCharm.jpg'
-import Postman from './assets/Postman.png'
+import Postman from './assets/postman.png'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 
 const Skills = () => {
